@@ -1,0 +1,16 @@
+1.1.0
+
+- Cheat support !
+- New background images
+- Text editor to write your own comments on games 
+- Text editor to modify the global cheat.txt file
+- Display first comment line while browsing game files
+- Memory monitoring engine to find your own cheat code !
+- Improve file requester with virtual keyboard to choose 
+  sequentially rom files beginning with a given letter
+- Add documentation for settings in help menu
+- A thumbnail image is now displayed in the file requester 
+  while selecting any file with the same name of a previously 
+  saved game (rom, keyboard, settings).
+  It might be very helpful to recognize that game later if you 
+  have thousand different games on your disk and rom folders !
